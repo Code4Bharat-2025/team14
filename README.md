@@ -95,6 +95,10 @@ This is a Flask-based chatbot that integrates with SwiftChat to provide historic
 }
 ```
 
+## Application/Bot link
+
+https://web.convegenius.ai/bots?botId=0289706498212451
+
 ## Troubleshooting
 
 - Ensure the `SWIFTCHAT_API_KEY` and `SWIFTCHAT_API_URL` are correctly set with your SwiftChat bot's details.
