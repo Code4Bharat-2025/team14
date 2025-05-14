@@ -104,6 +104,4 @@ https://web.convegenius.ai/bots?botId=0289706498212451
 - Ensure the `SWIFTCHAT_API_KEY` and `SWIFTCHAT_API_URL` are correctly set with your SwiftChat bot's details.
 - If you encounter any issues with API responses, check if the API key has the necessary permissions or if the bot is correctly configured.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
