@@ -5,7 +5,7 @@ from datetime import datetime
 app = Flask(__name__)
 
 SWIFTCHAT_API_URL = 'https://v1-api.swiftchat.ai/api/bots/0289706498212451/messages'
-SWIFTCHAT_API_KEY = '21bda582-e8d0-45bc-bb8b-a5c6c555d176'
+SWIFTCHAT_API_KEY = '<api-key>'
 
 # Function to send a text message to SwiftChat
 def send_text_message(user_id, body):
